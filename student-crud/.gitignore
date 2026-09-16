@@ -1,0 +1,15 @@
+# ไฟล์ config ที่มี password จริง (ห้าม commit ขึ้น Git)
+config/db_local.php
+
+# ไฟล์ environment variables
+.env
+
+# โฟลเดอร์ระบบปฏิบัติการ
+.DS_Store
+Thumbs.db
+
+# โฟลเดอร์ IDE
+.idea/
+.vscode/
+*.swp
+*.swo
